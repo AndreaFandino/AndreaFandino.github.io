@@ -2,8 +2,11 @@ name: "Cenicafe_DB"
 output_dir: "."
 navbar:
   title: Navbar
+  right:
+    text: "Home"
+    href: index.html
   icon: glyphicon glyphicon-home
-    href: https://getbootstrap.com/docs/3.3/components/#glyphicons
+    href: index.html
 output:
   html_document:
     css: styles.css
