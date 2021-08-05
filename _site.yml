@@ -1,0 +1,5 @@
+name: "Cenicafe_DB"
+output_dir: "."
+output:
+  html_document:
+    css: styles.css
