@@ -1,9 +1,5 @@
-name: "my-website"
+name: "Cenicafe_DB"
 output_dir: "."
-navbar:
-  title: "My Website"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+output:
+  html_document:
+    css: styles.css
